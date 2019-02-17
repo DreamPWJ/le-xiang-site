@@ -5,20 +5,16 @@
 
 https://lexiang.netlify.com
 
-## 自动升级angular版本
+## 自动升级Angular版本
 
 ng update @angular/cli @angular/core
 
 ## 目录结构
 - .circleci : 持续集成/持续部署的服务配置 绑定GitHub代码有变更根据你的配置，提供运行环境，执行测试、构建和部署
 
-## 合并这两个提交 :wq退出
-git rebase -i HEAD~2
-完成merge之后，出现冲突再次执行git rebase --continue
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli)
 
 ## Development server
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli)
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
