@@ -2,8 +2,8 @@
 <a href="https://dependabot.com" rel="nofollow"><img src="https://camo.githubusercontent.com/d70515d3f873345d60f293e1748539fe1527fe4d/68747470733a2f2f6170692e646570656e6461626f742e636f6d2f6261646765732f7374617475733f686f73743d676974687562266964656e7469666965723d313039303532363230" alt="Dependabot Status" data-canonical-src="https://api.dependabot.com/badges/status?host=github&amp;identifier=109052620" style="max-width:100%;"></a></p>
 
 # 山东乐享信息技术有限公司官网
-https://5d204c39c8959c00708b4c83.antdlanding.now.sh/
-https://lexiang.netlify.com
+- https://5d204c39c8959c00708b4c83.antdlanding.now.sh/
+- https://lexiang.netlify.com
 
 ## 自动升级Angular版本
 
